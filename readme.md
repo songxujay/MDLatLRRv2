@@ -1,3 +1,5 @@
+D2-LRR: A Dual-Decomposed MDLatLRR Approach for Medical Image Fusion
+
 This original implementation of this paper: [arxiv](https://arxiv.org/abs/2206.15179)
 
 main.m----------------------------主函数
